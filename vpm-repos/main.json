@@ -1,6 +1,8 @@
 {
   "name": "d4rkpl4y3r",
   "author": "d4rkpl4y3r",
+  "id": "io.github.d4rkc0d3r",
+  "url": "https://d4rkc0d3r.github.io/vpm-repos/main.json",
   "packages": {
     "d4rkpl4y3r.d4rkavataroptimizer": {
       "versions": {
